@@ -1,3 +1,6 @@
+
+
+
 # Hi, I'm Garvit Mittal 👋
 **MS Business Analytics & AI @ UT Dallas** · Dallas, Texas
 
@@ -53,6 +56,8 @@ An end-to-end AI agent that automates the monthly finance close cycle — ingest
 - Full analysis completed in under 2 minutes vs. 2–5 days manually
 
 **[→ Launch the live app](https://fpa-ai-agent-garvit.streamlit.app)**
+**[→ Live App Demo](https://github.com/user-attachments/assets/ac26447c-77cd-40b6-a32f-0a34d2a16c39)**
+
 
 ---
 
