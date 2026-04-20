@@ -30,7 +30,7 @@ I build forecasting, reporting, and decision-support systems for operations, sup
 
 ## Featured projects
 
-### 🏭 [ML-Powered Warehouse Operations System](https://github.com/garvit-mittal04/warehouse-decision-system)
+### 🏭 [ML-Powered Warehouse Decision System](https://github.com/garvit-mittal04/warehouse-decision-system)
 
 An end-to-end analytics system combining forecasting, risk classification, throughput prediction, SQL architecture, and SHAP explainability — deployed as a live Streamlit app.
 
