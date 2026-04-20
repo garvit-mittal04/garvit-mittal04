@@ -1,5 +1,4 @@
 # Hi, I'm Garvit Mittal 👋
-
 **MS Business Analytics & AI @ UT Dallas** · Dallas, Texas
 
 I build forecasting, reporting, and decision-support systems for operations, supply chain, and business performance. My focus is on work that connects data to real decisions — not just technical outputs.
@@ -29,7 +28,7 @@ I build forecasting, reporting, and decision-support systems for operations, sup
 
 ---
 
-## Featured project
+## Featured projects
 
 ### 🏭 [ML-Powered Warehouse Decision System](https://github.com/garvit-mittal04/warehouse-decision-system)
 
@@ -41,6 +40,19 @@ An end-to-end analytics system combining forecasting, risk classification, throu
 - 6 statistical validation tests in R
 
 **[→ Launch the live app](https://warehouse-garvit.streamlit.app)**
+
+---
+
+### 📊 [FP&A AI Analyst Agent](https://github.com/garvit-mittal04/fpa-ai-agent)
+
+An end-to-end AI agent that automates the monthly finance close cycle — ingesting actuals vs. budget data, running multi-period variance analysis in SQL, detecting anomalies with machine learning, and generating board-ready management commentary using an LLM. Built from experience doing this work manually on 20,000+ financial records.
+
+- 41 anomalies auto-detected with Isolation Forest (Scikit-learn)
+- SQL variance engine using CTEs and window functions
+- LLM-generated management commentary via Groq API
+- Full analysis completed in under 2 minutes vs. 2–5 days manually
+
+**[→ Launch the live app](https://fpa-ai-agent-garvit.streamlit.app)**
 
 ---
 
