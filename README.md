@@ -41,16 +41,14 @@ An end-to-end analytics system combining forecasting, risk classification, throu
 ---
 
 ### 📊 [FP&A AI Analyst Agent](https://github.com/garvit-mittal04/fpa-ai-agent)
-An end-to-end AI agent that automates the monthly finance close cycle — ingesting actuals vs. budget data, running multi-period variance analysis in SQL, detecting anomalies with machine learning, and generating board-ready management commentary using an LLM. Built from experience doing this work manually on 20,000+ financial records.
+An end-to-end AI agent that automates the monthly FP&A workflow — ingesting actuals vs. budget data, running multi-period variance analysis in SQL, detecting anomalies with adaptive machine learning, and generating board-ready management commentary using an LLM. Designed to replicate real FP&A workflows used in finance teams, and built from hands-on experience doing this work manually across 20,000+ financial records.
 
-- 41 anomalies auto-detected with Isolation Forest (Scikit-learn)
-- SQL variance engine using CTEs and window functions
-- LLM-generated management commentary via Groq API
-- Full analysis completed in under 2 minutes vs. 2–5 days manually
+- Adaptive ML-based anomaly detection with stability-aware logic to avoid false positives on clean datasets
+- SQL variance engine built with CTEs, window functions, and FULL OUTER JOIN-style logic to preserve budget-only and actual-only records
+- Board-ready management commentary generated through an LLM pipeline using the Groq API
+- Full analysis completed in under 2 minutes, reducing a manual 2–5 day month-end workflow to a repeatable automated process
 
 **[→ Launch the live app](https://fpa-ai-agent-garvit.streamlit.app)**
-
-https://github.com/user-attachments/assets/cf07c76a-6ed6-49b3-8ba6-f2966673a34e
 
 ---
 
